@@ -1,2 +1,2 @@
 ## in terminal run this command: 
-streamlit rup app.py <clipboard-copy>
+```streamlit run app.py <clipboard-copy>```
