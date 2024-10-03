@@ -1,2 +1,2 @@
-## in terminal run this command: 
+## Run this command in terminal 
 ```streamlit run app.py ```
